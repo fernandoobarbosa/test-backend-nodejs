@@ -82,7 +82,7 @@ Este é meu projeto para o teste backend da empresa anota ai dev, este projeto �
 | 200    | Produto Atualizado    | Objeto com o produto                     |  
 | 400    | Erro                  | Descrição do erro                        |
 
-*PUT /products* - Retorna os produtos filtrados pela categoria
+*POST /products* - Retorna os produtos filtrados pela categoria
 ---
 #### Parâmetros: 
 | Nome           | Local | Descrição         | Exemplo                      | 
